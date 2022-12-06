@@ -1,0 +1,4 @@
+function objectsExrcises(){
+
+}
+objectsExrcises() 
